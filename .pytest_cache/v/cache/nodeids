@@ -1,0 +1,5 @@
+[
+  "tests/test_anagrams.py::TestAnagrams::test_correct_result", 
+  "tests/test_anagrams.py::TestAnagrams::test_long", 
+  "tests/test_anagrams.py::TestAnagrams::test_short"
+]
